@@ -18,4 +18,3 @@ I am currently learning various topics related to data management, machine learn
 
 Feel free to explore the content in this repository. Each directory corresponds to a specific topic or module covered on the platform. Clone the repo and run the notebooks locally to follow along with the exercises.
 
-## License
