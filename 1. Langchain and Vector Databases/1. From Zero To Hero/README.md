@@ -1,6 +1,6 @@
 # Experimenting with Language Models
 
-In this repository, I document my attempts to use various language models for text generation and retrieval tasks. Below is a summary of the models I've tried, the issues encountered, and my current setup.
+In this notebook, I document my attempts to use various language models for text generation and retrieval tasks. Below is a summary of the models I've tried, the issues encountered, and my current setup.
 
 ## Models Tried
 
